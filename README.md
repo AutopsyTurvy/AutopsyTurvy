@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://verdant-boba-cb3d13.netlify.app/Images/me!.png" alt="Description" width="300">
+  <img src="https://verdant-boba-cb3d13.netlify.app/Images/me!.png" alt="Description" width="200">
 </p>
 
 ---
@@ -11,9 +11,6 @@
 ### How do you do fellow kids?
 
 
-<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZmejNmYnZxbzQ2MXpjcm1rbW85MzRsc3FrN2dsMW9iOHF2Z3JraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"> 
-
----
 
 ## Introductions first and foremost!
 
@@ -76,4 +73,7 @@ kittyalicerayworth)
 
 ---
 
+<p align="center">
+<img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZmejNmYnZxbzQ2MXpjcm1rbW85MzRsc3FrN2dsMW9iOHF2Z3JraCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"> 
+</p>
 
