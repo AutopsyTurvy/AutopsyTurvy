@@ -16,24 +16,21 @@
 
 
 Many happy greetings!
-I'm Kitty! (Chaotic-Good): currently a student at Noroff school, slowly chipping away at the galaxy of things you should know as a Front End Developer!
-Slowly building up stats and levelling up!
+I'm Kitty! (Chaotic-Good): soon to be graduate of Noroff school, poised to enter the world of Front End Development as a full time job, and excited to put all I have built to use and see where it takes me and my fellow classmates!
 
 <br>
 
-Coding was not a decision that I took lightly, and quite a life changing decision after having already spent more than two decades as an artist. After having been there and gotten the degree, I decided to jump into another form of creativity.
-Though this new one does not consist of fabric, paint or paper, I find the creative potential so exciting!
-
-
-So far I've had the privilege of diving into HTML, CSS, JavaScript- but I wait with baited breath to also delve into 
-other frameworks that can expand my toolkit and allow me to bring my creative visions to life -- I expect my educational journey and following career to be one of constant growth and endless curiosity.
-
-
+After having already spent more than two decades as an artist, I am looking forward to experimenting with mixing mediums and textures for an "organic" feel to websites- the potential for design and feel is so exciting!
 I enjoy trying to incorperate illustration into my work, and intend to develop this as my education progresses - Hopefully with more and more finesse! I aim to further refine my skills and contribute to projects that make the digital world a more inclusive, beautiful, and engaging place. 
-    
-I still keep my artwork close by, of course... if I get a break from schoolwork I still dust off the pencils or sewing machine. 
-I can't be sitting at a desk all day with out quilts, blankets, cosy artwork or comfortable dresses, can I?
-I also recently started dipping into animation!  
+
+This last year at school introduced us to those all familiar Bootstrap, Tailwind and CSS Modules- (the latter being my most valued friend but shhh, don't tell the others!), and more complex JavaScript than ever before- there were some really interesting brain twisters in there, that's for sure! 
+I feel I have come out of this year with a much better understanding of how things need to be laid out, and how things on a page can interact- I hope all of us at Noroff feel stronger for it!
+
+I have recently acquired Procreate Dreams specifically for animation, so I'm looking forward to seeing what else I can do with combined art and code skills! 
+
+
+
+ 
 
 ---
 
@@ -42,7 +39,7 @@ I also recently started dipping into animation!
 
 - 👯 I’m looking to collaborate on anything that will help in my learning!
 
-- 📫 How to reach me: autopsyturvycoding@gmail.com
+- 📫 How to reach me: kitty.letsbuzz@gmail.com
 
 - ⚡ Fun fact: The chainsaw was invented as a medical tool! Google it for nightmares
 
@@ -63,7 +60,7 @@ Contact:
 
 
 Email me: 
-autopsyturvycoding@gmail.com
+kitty.letsbuzz@gmail.com
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" width="50" height="50">
 
